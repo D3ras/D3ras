@@ -1,4 +1,4 @@
-6# 💫 About Me:
+i6# 💫 About Me:
 👋 Hi, I’m @D3ras<br>👀 I’m interested in django, react, react-native, linux, python and python automation, cloud, recommendation engines, IOT and cybersecurity...<br>🌱 I’m currently learning react-native for communication with my django backend restful api's...<br>💞️ I’m looking to collaborate on all topics above in any topics...<br>⚡ Fun fact: I love AI and entire web experience.
 
 
@@ -17,11 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=D3ras&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=D3ras&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
